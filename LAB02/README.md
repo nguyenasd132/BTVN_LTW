@@ -1,12 +1,5 @@
 # BUỔI 2 - LAB 02: QUẢN LÝ MẢNG SỐ NGUYÊN BẰNG CONSOLE
 
-- **Học phần:** COMP1019 - Lập trình trên Windows
-- **Sinh viên thực hiện:** [Điền Họ và Tên của bạn]
-- **Mã số sinh viên (MSSV):** [Điền MSSV của bạn]
-- **Lớp:** [Điền Tên lớp của bạn]
-
----
-
 ## 1. Giới thiệu bài toán
 Chương trình Console viết bằng C# quản lý một mảng số nguyên một chiều. Ứng dụng điều hướng thông qua menu dạng lặp (`do...while`), cung cấp các tính năng thao tác và tính toán trên mảng, đồng thời kiểm soát dữ liệu nhập (Input Validation) nhằm tránh lỗi dừng chương trình đột ngột.
 
