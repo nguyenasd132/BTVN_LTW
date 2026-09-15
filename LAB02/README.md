@@ -42,11 +42,28 @@ Chương trình được thiết kế theo tư duy mô-đun hóa (modular progra
 
 ---
 
-## 5. Hình ảnh
+## 5. Hình ảnh minh chứng kết quả chạy chương trình
 
+### 5.1 Giao diện Menu chính
+![Giao diện Menu](./HinhAnhLab2/Menu.png)
 
----
-## 6. Hướng dẫn cài đặt và Chạy chương trình
-1. Clone repository này về máy cá nhân:
-   ```bash
-   git clone <URL_REPOSITORY_CUA_BAN>
+### 5.2 Chức năng 1: Nhập mảng
+![Nhập mảng](./HinhAnhLab2/NhapMang.png)
+
+### 5.3 Chức năng 2: Xuất mảng
+![Xuất mảng](./HinhAnhLab2/XuatMang.png)
+
+### 5.4 Chức năng 3: Tính tổng
+![Tính tổng](./HinhAnhLab2/TinhTong.png)
+
+### 5.5 Chức năng 4: Tìm Max / Min
+![Tìm Max Min](./HinhAnhLab2/MAXMIN.png)
+
+### 5.6 Chức năng 5: Đếm chẵn lẻ
+![Đếm chẵn lẻ](./HinhAnhLab2/ChanLe.png)
+
+### 5.7 Chức năng 6: Sắp xếp tăng dần
+![Sắp xếp tăng dần](./HinhAnhLab2/XapXepTangDan.png)
+
+### 5.8 Chức năng 7: Tìm kiếm phần tử
+![Tìm kiếm](./HinhAnhLab2/TimKiem.png)
