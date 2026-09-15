@@ -24,5 +24,5 @@ Sau khi người dùng nhập xong thông tin và nhấn nút hiển thị, màn
 
 #### Tính năng kiểm sót thông tin
 Mỗi khi người dùng nhập thiếu hoặc nhập sai thông tin, mà nhấn nút hiển thị, màn hình sẽ xuất hiện thông báo tương tự như:
-
+![ThieuSot](/LAB01/HinhAnh/ThieuTen.png)
 
