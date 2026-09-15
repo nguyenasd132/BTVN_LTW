@@ -42,7 +42,11 @@ Chương trình được thiết kế theo tư duy mô-đun hóa (modular progra
 
 ---
 
-## 5. Hướng dẫn cài đặt và Chạy chương trình
+## 5. Hình ảnh
+
+
+---
+## 6. Hướng dẫn cài đặt và Chạy chương trình
 1. Clone repository này về máy cá nhân:
    ```bash
    git clone <URL_REPOSITORY_CUA_BAN>
