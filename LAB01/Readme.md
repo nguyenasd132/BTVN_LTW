@@ -1,2 +1,2 @@
-![GiaoDien](/HinhAnh/GiaoDien.png)
-![ThongTin](/HinhAnh/ThongTin.png)
+![GiaoDien](/LAB01/HinhAnh/GiaoDien.png)
+![ThongTin](/LAB01//HinhAnh/ThongTin.png)
