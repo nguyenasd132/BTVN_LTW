@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\LTW_LAB01\LTW_LAB01\obj\Debug\net10.0-windows\LTW_LAB01.Form1.resources
+C:\Users\Administrator\source\repos\LTW_LAB01\LTW_LAB01\obj\Debug\net10.0-windows\LTW_LAB01.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\LTW_LAB01\LTW_LAB01\obj\Debug\net10.0-windows\LTW_LAB01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\LTW_LAB01\LTW_LAB01\obj\Debug\net10.0-windows\LTW_LAB01.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\LTW_LAB01\LTW_LAB01\obj\Debug\net10.0-windows\LTW_LAB01.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\LTW_LAB01\LTW_LAB01\obj\Debug\net10.0-windows\LTW_LAB01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LTW_LAB01\LTW_LAB01\bin\Debug\net10.0-windows\LTW_LAB01.exe
+C:\Users\Administrator\source\repos\LTW_LAB01\LTW_LAB01\bin\Debug\net10.0-windows\LTW_LAB01.deps.json
+C:\Users\Administrator\source\repos\LTW_LAB01\LTW_LAB01\bin\Debug\net10.0-windows\LTW_LAB01.runtimeconfig.json
+C:\Users\Administrator\source\repos\LTW_LAB01\LTW_LAB01\bin\Debug\net10.0-windows\LTW_LAB01.dll
+C:\Users\Administrator\source\repos\LTW_LAB01\LTW_LAB01\bin\Debug\net10.0-windows\LTW_LAB01.pdb
+C:\Users\Administrator\source\repos\LTW_LAB01\LTW_LAB01\obj\Debug\net10.0-windows\LTW_LAB01.dll
+C:\Users\Administrator\source\repos\LTW_LAB01\LTW_LAB01\obj\Debug\net10.0-windows\refint\LTW_LAB01.dll
+C:\Users\Administrator\source\repos\LTW_LAB01\LTW_LAB01\obj\Debug\net10.0-windows\LTW_LAB01.pdb
+C:\Users\Administrator\source\repos\LTW_LAB01\LTW_LAB01\obj\Debug\net10.0-windows\LTW_LAB01.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\LTW_LAB01\LTW_LAB01\obj\Debug\net10.0-windows\ref\LTW_LAB01.dll
+C:\Users\Administrator\source\repos\LTW_LAB01\LTW_LAB01\obj\Debug\net10.0-windows\LTW_LAB01.csproj.Up2Date
