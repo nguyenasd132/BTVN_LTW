@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BTLOP16092026/1.0.0": {
+        "runtime": {
+          "BTLOP16092026.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BTLOP16092026/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

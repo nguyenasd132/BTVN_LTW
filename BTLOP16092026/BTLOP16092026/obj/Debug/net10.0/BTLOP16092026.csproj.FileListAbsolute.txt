@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\BTLOP16092026\BTLOP16092026\bin\Debug\net10.0\BTLOP16092026.exe
+C:\Users\Administrator\source\repos\BTLOP16092026\BTLOP16092026\bin\Debug\net10.0\BTLOP16092026.deps.json
+C:\Users\Administrator\source\repos\BTLOP16092026\BTLOP16092026\bin\Debug\net10.0\BTLOP16092026.runtimeconfig.json
+C:\Users\Administrator\source\repos\BTLOP16092026\BTLOP16092026\bin\Debug\net10.0\BTLOP16092026.dll
+C:\Users\Administrator\source\repos\BTLOP16092026\BTLOP16092026\bin\Debug\net10.0\BTLOP16092026.pdb
+C:\Users\Administrator\source\repos\BTLOP16092026\BTLOP16092026\obj\Debug\net10.0\BTLOP16092026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\BTLOP16092026\BTLOP16092026\obj\Debug\net10.0\BTLOP16092026.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\BTLOP16092026\BTLOP16092026\obj\Debug\net10.0\BTLOP16092026.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\BTLOP16092026\BTLOP16092026\obj\Debug\net10.0\BTLOP16092026.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BTLOP16092026\BTLOP16092026\obj\Debug\net10.0\BTLOP16092026.dll
+C:\Users\Administrator\source\repos\BTLOP16092026\BTLOP16092026\obj\Debug\net10.0\refint\BTLOP16092026.dll
+C:\Users\Administrator\source\repos\BTLOP16092026\BTLOP16092026\obj\Debug\net10.0\BTLOP16092026.pdb
+C:\Users\Administrator\source\repos\BTLOP16092026\BTLOP16092026\obj\Debug\net10.0\BTLOP16092026.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\BTLOP16092026\BTLOP16092026\obj\Debug\net10.0\ref\BTLOP16092026.dll
+C:\Users\Administrator\source\repos\BTLOP16092026\BTLOP16092026\obj\Debug\net10.0\BTLOP160.2312760B.Up2Date
