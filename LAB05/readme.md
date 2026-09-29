@@ -1,7 +1,7 @@
 # Phần Mềm Đăng Ký Khóa Học (Windows Forms)
 
 Ứng dụng desktop xây dựng trên nền tảng **C# Windows Forms** phục vụ việc quản lý và đăng ký thông tin khóa học dành cho học viên, hỗ trợ tự động tính toán học phí theo thời gian thực và xác thực dữ liệu đầu vào.
-![Giao diện](./GiaoDien.png)
+![Giao diện](./Lab05/GiaoDien.png)
 ---
 
 ## 📸 Giao diện ứng dụng
