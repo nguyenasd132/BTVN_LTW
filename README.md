@@ -7,7 +7,7 @@ Nơi lưu trữ các bài tập về nhà của môn **Lập trình Windows** (C
 
 ---
 
-## 📚 Danh sách các bài thực hành (LAB 01 - LAB 13)
+## Danh sách các bài thực hành (LAB 01 - LAB 13)
 
 | Bài LAB | Tên đề tài | Nền tảng | Công nghệ trọng tâm | Tài liệu chi tiết |
 |---|---|---|---|---|
