@@ -9,7 +9,7 @@ Nơi lưu trữ các bài tập về nhà của môn **Lập trình Windows** (C
 
 ## Danh sách các bài thực hành (LAB 01 - LAB 13)
 
-| Bài LAB | Tên đề tài | Nền tảng | Công nghệ trọng tâm | Tài liệu chi tiết |
+| Bài LAB | Tên đề tài | Nền tảng | Công việc trọng tâm | Tài liệu chi tiết |
 |---|---|---|---|---|
 | **[LAB 01](./LAB01/)** | Ứng dụng Thông tin Cá nhân | WinForms (.NET 10) | Basic Controls (TextBox, ComboBox, RadioButton) | [Xem Readme.md](./LAB01/Readme.md) |
 | **[LAB 02](./LAB02/)** | Quản lý Mảng Số nguyên | Console (.NET 10) | Mảng 1 chiều, Thuật toán sắp xếp, Tìm kiếm, Menu lặp | [Xem README.md](./LAB02/README.md) |
