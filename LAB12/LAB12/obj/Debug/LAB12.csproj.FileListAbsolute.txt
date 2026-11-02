@@ -1,0 +1,4 @@
+C:\Users\Administrator\source\repos\LAB12\LAB12\obj\Debug\LAB12.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\LAB12\LAB12\obj\Debug\LAB12.Properties.Resources.resources
+C:\Users\Administrator\source\repos\LAB12\LAB12\obj\Debug\LAB12.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\LAB12\LAB12\obj\Debug\LAB12.csproj.CoreCompileInputs.cache

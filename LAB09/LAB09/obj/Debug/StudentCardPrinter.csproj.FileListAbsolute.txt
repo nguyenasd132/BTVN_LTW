@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\LAB09\LAB09\obj\Debug\StudentCardPrinter.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\LAB09\LAB09\obj\Debug\StudentCardPrinter.Properties.Resources.resources
+C:\Users\Administrator\source\repos\LAB09\LAB09\obj\Debug\StudentCardPrinter.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\LAB09\LAB09\obj\Debug\StudentCardPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LAB09\LAB09\bin\Debug\LAB09.exe.config
+C:\Users\Administrator\source\repos\LAB09\LAB09\bin\Debug\LAB09.exe
+C:\Users\Administrator\source\repos\LAB09\LAB09\bin\Debug\LAB09.pdb
+C:\Users\Administrator\source\repos\LAB09\LAB09\obj\Debug\LAB09.exe
+C:\Users\Administrator\source\repos\LAB09\LAB09\obj\Debug\LAB09.pdb

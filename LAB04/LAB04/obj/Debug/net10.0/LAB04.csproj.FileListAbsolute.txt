@@ -1,0 +1,14 @@
+D:\NamBa\LTW\LAB04\LAB04\bin\Debug\net10.0\LAB04.exe
+D:\NamBa\LTW\LAB04\LAB04\bin\Debug\net10.0\LAB04.deps.json
+D:\NamBa\LTW\LAB04\LAB04\bin\Debug\net10.0\LAB04.runtimeconfig.json
+D:\NamBa\LTW\LAB04\LAB04\bin\Debug\net10.0\LAB04.dll
+D:\NamBa\LTW\LAB04\LAB04\bin\Debug\net10.0\LAB04.pdb
+D:\NamBa\LTW\LAB04\LAB04\obj\Debug\net10.0\LAB04.GeneratedMSBuildEditorConfig.editorconfig
+D:\NamBa\LTW\LAB04\LAB04\obj\Debug\net10.0\LAB04.AssemblyInfoInputs.cache
+D:\NamBa\LTW\LAB04\LAB04\obj\Debug\net10.0\LAB04.AssemblyInfo.cs
+D:\NamBa\LTW\LAB04\LAB04\obj\Debug\net10.0\LAB04.csproj.CoreCompileInputs.cache
+D:\NamBa\LTW\LAB04\LAB04\obj\Debug\net10.0\LAB04.dll
+D:\NamBa\LTW\LAB04\LAB04\obj\Debug\net10.0\refint\LAB04.dll
+D:\NamBa\LTW\LAB04\LAB04\obj\Debug\net10.0\LAB04.pdb
+D:\NamBa\LTW\LAB04\LAB04\obj\Debug\net10.0\LAB04.genruntimeconfig.cache
+D:\NamBa\LTW\LAB04\LAB04\obj\Debug\net10.0\ref\LAB04.dll

@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\LAB13\LAB13\obj\Debug\StudentReportDemo.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\LAB13\LAB13\obj\Debug\LAB13.Properties.Resources.resources
+C:\Users\Administrator\source\repos\LAB13\LAB13\obj\Debug\StudentReportDemo.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\LAB13\LAB13\obj\Debug\StudentReportDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LAB13\LAB13\bin\Debug\LAB13.exe.config
+C:\Users\Administrator\source\repos\LAB13\LAB13\bin\Debug\LAB13.exe
+C:\Users\Administrator\source\repos\LAB13\LAB13\bin\Debug\LAB13.pdb
+C:\Users\Administrator\source\repos\LAB13\LAB13\obj\Debug\LAB13.exe
+C:\Users\Administrator\source\repos\LAB13\LAB13\obj\Debug\LAB13.pdb
